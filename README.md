@@ -1,0 +1,3 @@
+- Install Yarn - https://yarnpkg.com
+- In the project directory, type `yarn install`
+- Type `yarn start`
