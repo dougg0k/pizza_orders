@@ -1,3 +1,8 @@
-- Install Yarn - https://yarnpkg.com
-- In the project directory, type `yarn install`
-- Type `yarn start`
+# Pizza Orders
+
+> Small app to extend checkbox usage with GraphQL.
+
+Usage:
+
+- npm install
+- npm start
